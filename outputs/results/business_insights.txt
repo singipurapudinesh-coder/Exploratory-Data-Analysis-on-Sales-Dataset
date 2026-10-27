@@ -1,0 +1,30 @@
+
+SALES DATA ANALYSIS - BUSINESS INSIGHTS
+
+1. Highest Revenue Product:
+Laptop - ₹12,164,760.73
+
+2. Highest Quantity Sold:
+Mouse - 405 units
+
+3. Lowest Revenue Product:
+Mouse - ₹607,344.02
+
+4. Highest Revenue Month:
+2025-05 - ₹3,511,756.91
+
+5. Lowest Revenue Month:
+2025-11 - ₹1,009,732.88
+
+6. Total Revenue:
+₹24,334,620.58
+
+7. Average Revenue per Transaction:
+₹81,115.40
+
+8. Total Quantity Sold:
+1,587 units
+
+The analysis shows differences in product performance and monthly
+revenue patterns. These findings can support inventory planning,
+product promotion, and sales strategy.
